@@ -1,3 +1,5 @@
 # sigma-demo
-This is a demo for git &amp; github clss
-..by Rutuja.
+Hello!
+This is a demo for git &amp; github class.
+# Student
+Sigma-student
